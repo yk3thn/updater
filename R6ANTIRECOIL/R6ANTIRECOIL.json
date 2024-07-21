@@ -1,4 +1,5 @@
 {
     "version": "1.0.1",
-    "url": "www.google.com/file.exe"
+    "update": "www.google.com/file.exe"
+    "updater": "www.google.com/updater.bat"
 }
