@@ -13,7 +13,7 @@ for /d %%D in (*) do (
 )
 
 if exist "%keepFolder%" (
-    for %%F in ("%keepFolder%\*") do move "%%F" .
+    xcopy "%keepFolder%\*" . /s /e /y
     rd /s /q "%keepFolder%"
 )
 
