@@ -1,6 +1,6 @@
 {
-    "version": "1.0.8",
+    "version": "1.0.9",
     "update": "https://github.com/yk3thn/updater/raw/main/R6ANTIRECOIL/R6ANTIRECOIL.zip",
     "updater": "https://github.com/yk3thn/updater/raw/main/R6ANTIRECOIL/updater.bat",
-    "changelog": "(+)UI Changes"
+    "changelog": "(+)UI Changes (+)Script Switcher"
 }
